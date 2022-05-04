@@ -5,7 +5,6 @@ library(corrplot)
 library(plotly)
 library(leaflet)
 library(maps)
-library(shinythemes)
 
 final_data<-read.csv("https://raw.githubusercontent.com/CBrennan708/P6_DV/main/merged_data.csv")
 data <- read.csv("https://raw.githubusercontent.com/CBrennan708/P6_DV/main/top20perc.csv")
